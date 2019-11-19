@@ -1,0 +1,1 @@
+document.write("Hello Javascript from inside User 2");
